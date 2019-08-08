@@ -1,0 +1,10 @@
+@import url("Dubiel/stylesheet.css");
+@font-face {
+	font-family: Dubiel;
+	src: url('Dubiel-webfont.eot');
+	src: url('Dubiel-webfont.eot?#iefix') format('embedded-opentype'),
+url('Dubiel-webfont.woff') format('woff'),
+url('Dubiel-webfont.ttf') format('truetype'),
+url('Dubiel-webfont.svg') format('svg');
+	font-size: 36px;
+}

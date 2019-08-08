@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+#bodyBedankt {
+	background-color: rgba(0,0,0,1);
+	background-image: url(../_images/bkgdall.png);
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	background-attachment: fixed;
+	background-size: cover;
+	line-height: 5px;
+}
+.logoBolBedankt {
+	position: absolute;
+	left: 222px;
+	top: 150px;
+	width: 126px;
+	height: 125px;
+	z-index: 26;
+}
+#bedankt {
+	position: absolute;
+	padding: 0px;
+	height: auto;
+	width: 300px;
+	left: 380px;
+	top: 180px;
+}

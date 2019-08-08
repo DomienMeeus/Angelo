@@ -1,0 +1,100 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#bodyStruct {
+	background-color: rgba(0,0,0,1);
+	background-image: url(../_images/bkgdall.png);
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	background-attachment: fixed;
+	background-size: cover;
+	line-height: 5px;
+}
+
+#sectionStruct {
+	position: absolute;
+	left: 65px;
+	top: 253px;
+	width: 764px;
+	z-index: 1;
+	background-color: rgba(255,255,255,0.3);
+	font-size: 12px;
+	font-weight: lighter;
+	line-height: 180%;
+	border-radius: 0px 100px 0px 100px;
+	padding: 1px 70pt 3% 60px;
+	height: 790px;
+	margin-bottom: 100px;
+}
+#bgStruct1 {
+	background-color: rgba(82,123,210,0.3);
+	height: 580px;
+	width: 815px;
+	position: absolute;
+	top: 460px;
+	left: 115px;
+	border-radius: 50px;
+}
+
+.logoBolStruct {
+	position: absolute;
+	left: 15px;
+	top: 168px;
+	width: 126px;
+	height: 125px;
+	z-index: 26;
+}
+#imgKrul {
+	position: absolute;
+	z-index: 500;
+	top: 425px;
+	left: 143px;
+}
+#txtKrul {
+	position: absolute;
+	width: 230px;
+	top: 770px;
+	left: 146px;
+}
+#imgGolf {
+	position: absolute;
+	z-index: 500;
+	top: 425px;
+	left: 406px;
+}
+#txtGolf {
+	position: absolute;
+	width: 230px;
+	top: 770px;
+	left: 412px;
+}
+#imgSteil {
+	position: absolute;
+	z-index: 500;
+	top: 425px;
+	left: 673px;
+}
+#txtSteil {
+	position: absolute;
+	width: 230px;
+	top: 770px;
+	left: 675px;
+}
+#arrowDown {
+	position: absolute;
+	width: 79px;
+	z-index: 555;
+	height: 74px;
+	top: 925px;
+	left: 490px;
+}
+#kiesKleur1 {
+	position: relative;
+	width: 810px;
+	top: 995px;
+	left: 110px;
+	line-height: normal;
+	z-index: 500;
+}

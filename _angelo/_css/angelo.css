@@ -1,0 +1,136 @@
+@charset "UTF-8";
+@import url("../../webfonts/droidsans/stylesheet.css");
+/* CSS Document */
+
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: rgba(204,204,204,1);
+}
+p {
+	font-family: droidsans, Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	line-height: 150%;
+	color: rgba(221,221,221,1);
+	vertical-align: top;
+	text-align: left;
+	font-weight: lighter;
+}
+h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	line-height: 130%;
+}
+.intro {
+	font-family: droidsans, Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 150%;
+	color: rgba(221,221,221,1);
+	vertical-align: top;
+	text-align: left;
+	font-weight: lighter;
+}
+#bodyAll  {
+	background-color: rgba(0,0,0,1);
+	background-image: url(../_images/bkgdall2.jpg);
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	background-attachment: fixed;
+	background-size: cover;
+	line-height: 5px;
+}
+
+#angelo {
+	position: absolute;
+	left: 21px;
+	top: 10px;
+	width: 237px;
+	height: 89px;
+	z-index: 22;
+}
+#BrazHair {
+	position: absolute;
+	left: 177px;
+	top: 83px;
+	width: 247px;
+	height: 30px;
+	z-index: 22;
+}
+#nav {
+	position: absolute;
+	left: 178px;
+	top: 112px;
+	width: 791px;
+	height: 29px;
+	z-index: 8;
+	background-color: rgba(0,0,0,0.3);
+}
+
+a:link {
+	color: rgba(204,204,204,1);
+	text-decoration: none;
+}
+a:visited {
+	color: rgba(204,204,204,1);
+	text-decoration: none;
+}
+a:hover {
+	color: rgba(153,255,255,1);
+	text-decoration: none;
+}
+a:active {
+	color: rgba(153,255,255,1);
+	text-decoration: none;
+}
+.center {
+	text-align:center;
+}
+
+.justify {
+	text-align:justify;
+}
+.right {
+	text-align:right;
+}
+.logoBol {
+	position: absolute;
+	left: 23px;
+	top: 282px;
+	width: 126px;
+	height: 125px;
+	z-index: 26;
+}
+#contact {
+	margin: 5px;
+	padding: 5px;
+}
+.rounded {
+	border-radius:20px;
+}
+.shadow {
+	box-shadow: 2px 2px 11px 1px rgba(68,68,68,1);
+}
+.interlinieKlein {
+	margin-bottom: -10px;
+}
+.rood {
+	color:red;
+}
+.underline {
+	text-decoration: underline;
+}
+.blink {
+	text-decoration: blink;
+}
+.bold {
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+.italic {
+	font-style: italic;
+}
+.superscript {
+	vertical-align: super;
+	font-size: x-small;
+}

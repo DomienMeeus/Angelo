@@ -1,0 +1,212 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#bodyAcc {
+	background-color: rgba(0,0,0,1);
+	background-image: url(../_images/bkgdall.png);
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	background-attachment: fixed;
+	background-size: cover;
+	line-height: 5px;
+}
+.logoBolAcc {
+	position: absolute;
+	left: 15px;
+	top: 168px;
+	width: 126px;
+	height: 125px;
+	z-index: 26;
+}
+#sectionAcc {
+	position: absolute;
+	left: 65px;
+	top: 253px;
+	width: 764px;
+	z-index: 1;
+	background-color: rgba(255,255,255,0.3);
+	font-size: 12px;
+	font-weight: lighter;
+	line-height: 180%;
+	border-radius: 0px 100px 0px 100px;
+	padding: 1px 70pt 3% 50px;
+	height: 1300px;
+}
+#sectionAccBR {
+	position: absolute;
+	left: 65px;
+	top: 253px;
+	width: 764px;
+	z-index: 1;
+	background-color: rgba(255,255,255,0.3);
+	font-size: 12px;
+	font-weight: lighter;
+	line-height: 180%;
+	border-radius: 0px 100px 0px 100px;
+	padding: 1px 70pt 3% 50px;
+	height: 1325px;
+}
+
+/***********************************SHAMPOO****************************************************************************************************************************** */
+
+#bgShampoo {
+	background-color: rgba(82,123,210,0.3);
+	height: 200px;
+	width: 700px;
+	position: absolute;
+	top: 500px;
+	left: 200px;
+	border-radius: 50px;
+}
+
+#imgShampoo {
+	position: absolute;
+	left: 112px;
+	top: 489px;
+	width: 176px;
+	height: 231px;
+	z-index: 28;
+}
+#txtShamCon {
+	position: absolute;
+	left: 315px;
+	top: 515px;
+	width: 425px;
+	height: 142px;
+	z-index: 27;
+}
+
+#imgConditioner {
+	position: absolute;
+	left: 750px;
+	top: 489px;
+	width: 176px;
+	height: 231px;
+	z-index: 28;
+}
+
+
+/***********************************MICRORINGS****************************************************************************************************************************** */
+
+#bgRings {
+	background-color: rgba(82,123,210,0.3);
+	height: 200px;
+	width: 700px;
+	position: absolute;
+	top: 782px;
+	left: 205px;
+	border-radius: 50px;
+}
+#imgRings {
+	position: absolute;
+	left: 114px;
+	top: 752px;
+	width: 176px;
+	height: 275px;
+	z-index: 28;
+}
+#imgRings2 {
+	position: absolute;
+	left: 654px;
+	top: 750px;
+	width: 105px;
+	height: auto;
+	z-index: 28;
+}
+#imgRings3 {
+	position: absolute;
+	left: 783px;
+	top: 836px;
+	width: 105px;
+	height: auto;
+	z-index: 28;
+}
+#txtRings {
+	position: absolute;
+	left: 380px;
+	top: 800px;
+	width: 275px;
+	height: 159px;
+	z-index: 27;
+}
+
+
+/***********************************MICRONAALD/TANG****************************************************************************************************************************** */
+
+#bgNaald {
+	background-color: rgba(82,123,210,0.3);
+	height: 200px;
+	width: 700px;
+	position: absolute;
+	top: 1064px;
+	left: 205px;
+	border-radius: 50px;
+}
+#imgNaald {
+	position: absolute;
+	left: 126px;
+	top: 1084px;
+	width: 176px;
+	height: 165px;
+	z-index: 28;
+}
+#imgTang {
+	position: absolute;
+	left: 625px;
+	top: 1067px;
+	width: 176px;
+	height: 284px;
+	z-index: 28;
+}
+#txtNaald {
+	position: absolute;
+	left: 430px;
+	top: 1077px;
+	width: 300px;
+	height: 174px;
+	z-index: 27;
+}
+
+/***********************************CLIPS****************************************************************************************************************************** */
+
+#bgClips {
+	background-color: rgba(82,123,210,0.3);
+	height: 205px;
+	width: 700px;
+	position: absolute;
+	top: 1346px;
+	left: 205px;
+	border-radius: 50px;
+}
+#bgClipsBR {
+	background-color: rgba(82,123,210,0.3);
+	height: 235px;
+	width: 700px;
+	position: absolute;
+	top: 1346px;
+	left: 205px;
+	border-radius: 50px;
+}
+#imgClips1 {
+	position: absolute;
+	left: 85px;
+	top: 1300px;
+	z-index: 28;
+}
+#imgClips2 {
+	position: absolute;
+	left: 747px;
+	top: 1400px;
+	z-index: 28;
+}
+
+#txtClips {
+	position: absolute;
+	left: 400px;
+	top: 1355px;
+	width: 350px;
+	height: 142px;
+	z-index: 27;
+}

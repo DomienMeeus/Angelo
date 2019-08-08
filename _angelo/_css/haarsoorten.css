@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	line-height: 2em;
+	color: rgba(0,85,0,1);
+}
+h1 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:2em;
+	color: rgba(255,204,51,1)
+}
+
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.3em;
+	color: rgba(221,221,221,1);
+	line-height: 0.5em;
+}
+
+.contHaarSoort {
+	border: 0;
+	width: 750px;
+	margin: 2em;
+	padding: 25px;
+	height: auto;
+	float: left;
+	xbackground-color: rgba(119,119,119,1);
+}
+.haarSoortImg {
+	height: 123px;
+	width: 187px;
+	margin-right: 2em;
+	float: left;
+	box-shadow: -5px 5px 19px 3px rgba(85,85,85,1);
+}
+.haarSoortCopy {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	color: rgba(221,221,221,1);
+	height: 110px;
+	line-height: 150%;
+	vertical-align: top;
+	width: 580px;
+	left: 250px;
+	margin-bottom: -8px;
+}
+.headerHaarSoort {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.3em;
+	text-transform: uppercase;
+	color: rgba(221,221,221,1);
+	margin-bottom: -2px;
+	margin-top: 0.3em;
+}
+.haarSoortKies {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.9em;
+	line-height: 150%;
+	color: rgba(221,221,221,1);
+	width: 187px;
+	height: 73px;
+	margin-right: 2em;
+	float: none;
+	text-align: right;
+	left: 65px;
+	top: 200px;
+	margin-top: 1em;
+}

@@ -1,0 +1,158 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#bodyWinkel {
+	background-color: rgba(0,0,0,1);
+	background-image: url(../_images/bkgdall.png);
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	background-attachment: fixed;
+	background-size: cover;
+	line-height: 5px;
+}
+.logoBolWinkel {
+	position: absolute;
+	left: 15px;
+	top: 168px;
+	width: 126px;
+	height: 125px;
+	z-index: 26;
+}
+#sectionWinkel {
+	position: absolute;
+	left: 60px;
+	top: 253px;
+	width: 680px;
+	z-index: 1;
+	background-color: rgba(255,255,255,0.3);
+	font-size: 12px;
+	font-weight: lighter;
+	line-height: 180%;
+	border-radius: 0px 100px 0px 100px;
+	padding: 1px 100pt 3% 110px;
+	height: 2100px;
+}
+
+#bgWinkel {
+	background-color: rgba(82,123,210,0.3);
+	height: auto;
+	width: 500px;
+	position: absolute;
+	top: 450px;
+	left: 170px;
+	border-radius: 50px;
+	padding-left: 100px;
+	padding-top: 15px;
+	padding-right: 100px;
+}
+
+#txtWinkel {
+	position: absolute;
+	z-index: 500;
+	top: 100px;
+	left: 50px;
+	width: 275px;
+	text-align: justify;
+	height: auto;
+}
+#imgWinkel1 {
+	position: absolute;
+	left: 375px;
+	width: 300px;
+	top: 100px;
+}
+#imgWinkel2 {
+	position: absolute;
+	left: 375px;
+	width: 300px;
+	top: 450px;
+}
+#imgWinkel3 {
+	position: absolute;
+	left: 375px;
+	width: 300px;
+	top: 800px;
+}
+#imgWinkel4 {
+	position: absolute;
+	left: 375px;
+	width: 300px;
+	top: 1150px;
+}
+#Googlemaps {
+	position: absolute;
+	left: 50px;
+	top: 1070px;
+	width: 280px;
+	height: 539px;
+	z-index: 500;
+}
+#logoBolOnderCont {
+	position: absolute;
+	left: 112px;
+	top: 600px;
+	width: 100px;
+	height: 148px;
+	z-index: 29;
+}
+#logoBolOnderContEng {
+	position: absolute;
+	left: 112px;
+	top: 550px;
+	width: 100px;
+	height: 148px;
+	z-index: 29;
+}
+
+
+
+
+#buttonContact {
+	position: absolute;
+	left: 580px;
+	top: 1525px;
+	width: 306px;
+	height: 112px;
+	z-index: 225;
+}
+
+
+
+
+#bgB2b {
+	position: absolute;
+	background-color: rgba(82,123,210,0.3);
+	height: 400px;
+	width: 825px;
+	top: 1700px;
+	left: 50px;
+	border-radius: 50px;
+}
+#txtB2b {
+	position: absolute;
+	top: 1700px;
+	width: 250px;
+	left: 580px;
+}
+#txtB2bEng {
+	position: absolute;
+	top: 1700px;
+	width: 270px;
+	left: 580px;
+}
+#imgB2b {
+	position: absolute;
+	top: 1760px;
+	left: 100px;
+}
+#scrollTxt {
+	position: absolute;
+	top: 150px;
+	left: 180px;
+	width: 790px;
+	height: 50px;
+	line-height: normal;
+}

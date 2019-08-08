@@ -1,0 +1,246 @@
+@charset "UTF-8";
+@import url("../../webfonts/yanonekaffeesatz_bold/stylesheet.css");
+#bodyExt {
+	background-color: rgba(0,0,0,1);
+	background-image: url(../_images/bkgdall.png);
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	background-attachment: fixed;
+	background-size: cover;
+	line-height: 5px;
+}
+/* CSS Document */
+
+/* CSS Document */
+
+.logoBolExt {
+	position: absolute;
+	left: 15px;
+	top: 168px;
+	width: 126px;
+	height: 125px;
+	z-index: 26;
+}
+#sectionExt {
+	position: absolute;
+	left: 65px;
+	top: 253px;
+	width: 764px;
+	z-index: 1;
+	background-color: rgba(255,255,255,0.3);
+	font-size: 12px;
+	font-weight: lighter;
+	line-height: 180%;
+	border-radius: 0px 100px 0px 100px;
+	padding: 1px 70pt 3% 50px;
+	height: 1560px;
+}
+#txtHandgeweven {
+	position: absolute;
+	left: 318px;
+	top: 428px;
+	width: 570px;
+	height: 195px;
+	z-index: 27;
+}
+
+#imgHandgeweven {
+	position: absolute;
+	left: 112px;
+	top: 451px;
+	width: 176px;
+	height: 264px;
+	z-index: 28;
+}
+#imgHandgeweven2 {
+	position: absolute;
+	width: 182px;
+	top: 592px;
+	height: 126px;
+	z-index: 500;
+	left: 321px;
+}
+#arrowDown {
+	position: absolute;
+	width: 79px;
+	z-index: 555;
+	height: 74px;
+	top: 595px;
+	left: 567px;
+}
+#kiesStructuur {
+	position: relative;
+	width: 300pt;
+	top: 665px;
+	left: 520px;
+	line-height: normal;
+	z-index: 500;
+}
+#bgExt1 {
+	background-color: rgba(82,123,210,0.3);
+	height: 315px;
+	width: 775px;
+	position: absolute;
+	top: 425px;
+	left: 151px;
+	border-radius: 50px;
+}
+#txtMachinegeweven {
+	position: absolute;
+	left: 318px;
+	top: 788px;
+	width: 570px;
+	height: 154px;
+	z-index: 27;
+}
+#txtMachinegewevenBR {
+	position: absolute;
+	left: 318px;
+	top: 788px;
+	width: 585px;
+	height: 154px;
+	z-index: 27;
+}
+#imgMachinegeweven {
+	position: absolute;
+	width: 172px;
+	top: 810px;
+	height: 259px;
+	z-index: 500;
+	left: 112px;
+}
+#imgMachinegeweven2 {
+	position: absolute;
+	width: 182px;
+	top: 945px;
+	height: 126px;
+	z-index: 500;
+	left: 320px;
+}
+#arrowDown2 {
+	position: absolute;
+	width: 79px;
+	z-index: 555;
+	height: 74px;
+	top: 945px;
+	left: 567px;
+}
+#kiesStructuur2 {
+	position: relative;
+	width: 300pt;
+	top: 969px;
+	left: 520px;
+	line-height: normal;
+	z-index: 500;
+}
+	
+	
+#bgExt2 {
+	background-color: rgba(82,123,210,0.3);
+	height: 315px;
+	width: 775px;
+	position: absolute;
+	top: 780px;
+	left: 151px;
+	border-radius: 50px;
+}
+#txtBulk {
+	position: absolute;
+	left: 318px;
+	top: 1140px;
+	width: 570px;
+	height: 154px;
+	z-index: 27;
+}
+#imgBulk {
+	position: absolute;
+	width: 172px;
+	top: 1163px;
+	height: 259px;
+	z-index: 500;
+	left: 112px;
+}
+#imgBulk2 {
+	position: absolute;
+	width: 182px;
+	top: 1298px;
+	height: 126px;
+	z-index: 500;
+	left: 320px;
+}
+#arrowDown3 {
+	position: absolute;
+	width: 79px;
+	z-index: 555;
+	height: 74px;
+	top: 1300px;
+	left: 567px;
+}
+#kiesStructuur3 {
+	position: relative;
+	width: 300pt;
+	top: 1270px;
+	left: 520px;
+	line-height: normal;
+	z-index: 500;
+}
+#bgExt3 {
+	background-color: rgba(82,123,210,0.3);
+	height: 315px;
+	width: 775px;
+	position: absolute;
+	top: 1135px;
+	left: 151px;
+	border-radius: 50px;
+}
+#txtGlueTip {
+	position: absolute;
+	left: 318px;
+	top: 1500px;
+	width: 570px;
+	height: 154px;
+	z-index: 27;
+}
+#imgGlueTip {
+	position: absolute;
+	width: 172px;
+	top: 1520px;
+	height: 259px;
+	z-index: 500;
+	left: 112px;
+}
+#imgGlueTip2 {
+	position: absolute;
+	width: 182px;
+	top: 1665px;
+	height: 126px;
+	z-index: 500;
+	left: 320px;
+}	
+#arrowDown4 {
+	position: absolute;
+	width: 79px;
+	z-index: 555;
+	height: 74px;
+	top: 1655px;
+	left: 567px;
+}
+#kiesStructuur4 {
+	position: relative;
+	width: 300pt;
+	top: 1575px;
+	left: 520px;
+	line-height: normal;
+	z-index: 500;
+}
+#bgExt4 {
+	background-color: rgba(82,123,210,0.3);
+	height: 315px;
+	width: 775px;
+	position: absolute;
+	top: 1490px;
+	left: 151px;
+	border-radius: 50px;
+}

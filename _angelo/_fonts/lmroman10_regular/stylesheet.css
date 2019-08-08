@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'lmroman10 regular';
+	src: url('lmroman10-regular-webfont.eot');
+	src: url('lmroman10-regular-webfont.eot?#iefix') format('embedded-opentype'),
+url('lmroman10-regular-webfont.woff') format('woff'),
+url('lmroman10-regular-webfont.ttf') format('truetype'),
+url('lmroman10-regular-webfont.svg') format('svg');
+}

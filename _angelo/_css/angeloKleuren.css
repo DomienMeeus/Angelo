@@ -1,0 +1,438 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#bodyKleuren {
+	background-color: rgba(0,0,0,1);
+	background-image: url(../_images/bkgdall.png);
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	background-attachment: fixed;
+	background-size: cover;
+	line-height: 5px;
+}
+
+.logoBolKleuren {
+	position: absolute;
+	left: 15px;
+	top: 168px;
+	width: 126px;
+	height: 125px;
+	z-index: 260;
+}
+#sectionKleuren {
+	position: absolute;
+	left: 65px;
+	top: 253px;
+	width: 764px;
+	z-index: 1;
+	background-color: rgba(255,255,255,0.3);
+	font-size: 12px;
+	font-weight: lighter;
+	line-height: 180%;
+	border-radius: 0px 100px 0px 100px;
+	padding: 1px 70pt 3% 50px;
+	height: 2500px;
+}
+#kleurRing {
+	position: absolute;
+	z-index: 15;
+	left: 83px;
+	top: 280px;
+	width: 420px;
+	height: 291px;
+}
+#kleurRingBR {
+	position: absolute;
+	z-index: 15;
+	left: 83px;
+	top: 320px;
+	width: 420px;
+	height: 291px;
+}
+
+#txtIntro {
+	position: absolute;
+	left: 533px;
+	top: 259px;
+	width: 416px;
+	height: 330px;
+	z-index: 27;
+}
+#img1a {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 83px;
+	top: 650px;
+	z-index: 500;
+}
+#txt1a {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 940px;
+	left: 100px;
+}
+#img1b {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 305px;
+	top: 650px;
+	z-index: 500;
+}
+#txt1b {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 940px;
+	left: 320px;
+}
+#img1c {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 528px;
+	top: 650px;
+	z-index: 500;
+}
+#txt1c {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 940px;
+	left: 545px;
+}
+#img1d {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 750px;
+	top: 650px;
+	z-index: 500;
+}
+#txt1d {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 940px;
+	left: 770px;
+}
+
+
+
+
+#img2a {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 83px;
+	top: 1000px;
+	z-index: 500;
+}
+#txt2a {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 1290px;
+	left: 100px;
+}
+#img2b {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 305px;
+	top: 1000px;
+	z-index: 500;
+}
+#txt2b {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 1290px;
+	left: 320px;
+}
+#img2c {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 528px;
+	top: 1000px;
+	z-index: 500;
+}
+#txt2c {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 1290px;
+	left: 545px;
+}
+#img2d {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 750px;
+	top: 1000px;
+	z-index: 500;
+}
+#txt2d {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 1290px;
+	left: 770px;
+}
+
+
+
+#img3a {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 83px;
+	top: 1350px;
+	z-index: 500;
+}
+#txt3a {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 1642px;
+	left: 100px;
+}
+#img3b {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 305px;
+	top: 1350px;
+	z-index: 500;
+}
+#txt3b {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 1642px;
+	left: 320px;
+}
+#img3c {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 528px;
+	top: 1350px;
+	z-index: 500;
+}
+#txt3c {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 1642px;
+	left: 545px;
+}
+#img3d {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 750px;
+	top: 1350px;
+	z-index: 500;
+}
+#txt3d {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 1642px;
+	left: 770px;
+}
+
+
+
+#img4a {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 83px;
+	top: 1700px;
+	z-index: 500;
+}
+#txt4a {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 1992px;
+	left: 100px;
+}
+#img4b {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 305px;
+	top: 1700px;
+	z-index: 500;
+}
+#txt4b {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 1992px;
+	left: 320px;
+}
+#img4c {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 528px;
+	top: 1700px;
+	z-index: 500;
+}
+#txt4c {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 1992px;
+	left: 545px;
+}
+#img4d {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 750px;
+	top: 1700px;
+	z-index: 500;
+}
+#txt4d {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 1992px;
+	left: 770px;
+}
+
+
+
+#img5a {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 83px;
+	top: 2050px;
+	z-index: 500;
+}
+#txt5a {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 2342px;
+	left: 100px;
+}
+#img5b {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 305px;
+	top: 2050px;
+	z-index: 500;
+}
+#txt5b {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 2342px;
+	left: 320px;
+}
+#img5c {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 528px;
+	top: 2050px;
+	z-index: 500;
+}
+#txt5c {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 2342px;
+	left: 545px;
+}
+#img5d {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 750px;
+	top: 2050px;
+	z-index: 500;
+}
+#txt5d {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 2342px;
+	left: 770px;
+}
+
+
+
+#img6a {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 83px;
+	top: 2400px;
+	z-index: 500;
+}
+#txt6a {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 2692px;
+	left: 100px;
+}
+#img6b {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 305px;
+	top: 2400px;
+	z-index: 500;
+}
+#txt6b {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 2692px;
+	left: 325px;
+}
+#img6c {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 528px;
+	top: 2400px;
+	z-index: 500;
+}
+#txt6c {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 2692px;
+	left: 550px;
+}
+#img6d {
+	position: absolute;
+	width: 116px;
+	height: auto;
+	left: 750px;
+	top: 2400px;
+	z-index: 500;
+}
+#txt6d {
+	position: absolute;
+	text-align: left;
+	z-index: 500;
+	top: 2692px;
+	left: 765px;
+}

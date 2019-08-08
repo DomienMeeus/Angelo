@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+
+#bodyContForm {
+	background-color: rgba(0,0,0,1);
+	background-image: url(../_images/bkgdall.png);
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	background-attachment: fixed;
+	background-size: cover;
+	line-height: 5px;
+}
+
+#contactformulier {
+	position: absolute;
+	left: 182px;
+	top: 213px;
+	width: 608px;
+	height: auto;
+	z-index: 30;
+	font-size: 10pt;
+	line-height: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: rgba(82,123,210,0.3);
+	padding-left: 30px;
+	border-radius: 0px 100px 0px 100px;
+}
+#adres {
+	position: absolute;
+	left: 365px;
+	top: 845px;
+	width: 393px;
+	height: 50px;
+	z-index: 31;
+	font-size: 12px;
+	line-height: 24px;
+}
+
+#logoBolOnderFrm {
+	position: absolute;
+	left: 200px;
+	top: 800px;
+	width: 160px;
+	height: 148px;
+	z-index: 229;
+}
