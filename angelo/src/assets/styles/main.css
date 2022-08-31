@@ -1,0 +1,15 @@
+.main-container{
+   background-color: rgba(255, 255, 255, 0.3);
+ 
+}
+
+.main-container #logo-img{
+    width:100px;
+}
+
+body{
+    background-color: #050505;
+    background-image: url(../_images/bkgdHome.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
