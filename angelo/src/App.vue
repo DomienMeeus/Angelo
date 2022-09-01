@@ -1,15 +1,17 @@
 
 <template>
   <div>
-  <HomeVue></HomeVue>
+    <NavBarVue></NavBarVue>
+    <HomeVue></HomeVue>
   </div>
 </template>
 <script>
   import HomeVue from './views/Home.vue';
+  import NavBarVue from './components/NavBar.vue';
 export default {
 
   components:{
-    HomeVue
+    HomeVue,NavBarVue
   }
 }
 </script>
