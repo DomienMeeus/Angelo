@@ -1,3 +1,9 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
 .main-container{
    background-color: rgba(255, 255, 255, 0.3);
    max-width: 80rem;
@@ -5,49 +11,64 @@
 }
 
 .main-container #logo-img{
-    max-width:10rem;
+   
+    
 }
 
 body{
     background-color: #050505;
     background-image: url(../_images/bkgdHome.png);
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
 }
 
-nav{
-    background-color: rgba(0, 0, 0, 0.3);
+nav .container{
+    background-color: rgba(228, 223, 223, 0.3);
     font-size: 1.5rem;
-    max-height:100vh;
-  
+    display: flex;
+    justify-content: right;
+    justify-items: start;
+    flex-direction: column;
+    
 }
  
-nav ul{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+.hamburger-icon{
+    height: auto;
+    max-width: 20%;
+    margin:1rem;
+    align-self: flex-end;
+    
+}
+.navbar{
+    display:flex;
+    flex-direction: column;
+    justify-items: center;
     align-items: center;
+    width:60%;
+    margin-left: 20%;
 
 }
-nav li{
+.navbar li{
     list-style: none;
-    padding:0.5rem;
+    padding: 0.5rem;
     width: 100%;
+    text-align: center;
+    
     
         
 }
 nav li a{
-    display:block;
+  
 }
 nav li:hover{
-    background-color: red;
+    text-decoration:underline red 1px;
 }
 nav a{
     color:rgb(204, 204, 204);
    text-decoration: none;
-   width:100%;
+   
 }
-.hamburger-icon{
+nav .container .hamburger-icon{
   
 }
 @media(min-width:60rem){
