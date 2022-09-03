@@ -19,15 +19,13 @@ export default {
     paragraph: Array,
     sideImg: Object,
     bottomImg: String,
-    buttonText: Array,
   },
-  methods: {
-    getLeftImgUrl() {
-      return `src/assets/_images/${this.sideImg}`;
-    },
-    getBottomImgUrl() {
-      return `src/assets/_images/${this.bottomImg}`;
-    },
+  data() {
+    return {
+      buttonText: [
+        "Choose your hair style and check out the available structures.",
+      ],
+    };
   },
 };
 </script>
