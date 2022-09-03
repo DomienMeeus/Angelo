@@ -2,8 +2,12 @@
   <div class="extensions-card">
     <h1>{{ title[0] }}</h1>
     <p>{{ paragraph[0] }}</p>
-    <img class="img-left" :src="'../assets/_images/' + sideImage" alt="" />
-    <img class="img-bottom" :src="bottomImg" alt="" />
+    <img class="img-left" :src="`src/assets/_images/${this.sideImg}`" alt="" />
+    <img
+      class="img-bottom"
+      :src="`src/assets/_images/${this.bottomImg}`"
+      alt=""
+    />
     <img src="../assets/_images/arrowDown.png" class="redirect-button" />
     <p class="button-text">{{ buttonText[0] }}</p>
   </div>
@@ -16,6 +20,14 @@ export default {
     sideImg: Object,
     bottomImg: String,
     buttonText: Array,
+  },
+  methods: {
+    getLeftImgUrl() {
+      return `src/assets/_images/${this.sideImg}`;
+    },
+    getBottomImgUrl() {
+      return `src/assets/_images/${this.bottomImg}`;
+    },
   },
 };
 </script>
