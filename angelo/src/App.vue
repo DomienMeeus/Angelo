@@ -1,7 +1,7 @@
 <template>
   <div>
     <NavBarVue></NavBarVue>
-    <Colours />
+    <Accessories />
   </div>
 </template>
 <script>
@@ -10,6 +10,7 @@ import NavBarVue from "./components/NavBar.vue";
 import ExtensionsVue from "./views/Extensions.vue";
 import Structure from "./views/Structure.vue";
 import Colours from "./views/Colours.vue";
+import Accessories from "./views/Accessories.vue";
 export default {
   components: {
     HomeVue,
@@ -17,6 +18,7 @@ export default {
     NavBarVue,
     Structure,
     Colours,
+    Accessories,
   },
 };
 </script>
